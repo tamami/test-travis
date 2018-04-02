@@ -27,3 +27,5 @@ untuk verifikasi installer
 10. push ke github.
 
 11. cek halaman travis-ci.org, aktifkan repositori-nya
+
+12. lakukan commit untuk men-trigger build script di travis

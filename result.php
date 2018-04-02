@@ -1,1 +1,1 @@
-Selamat datang, <?php $_POST["nama"]; ?>
+Selamat datang, <?php echo _POST["nama"]; ?>

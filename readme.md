@@ -25,3 +25,5 @@ untuk verifikasi installer
 9. buat file `index.php` dan `result.php`
 
 10. push ke github.
+
+11. cek halaman travis-ci.org, aktifkan repositori-nya

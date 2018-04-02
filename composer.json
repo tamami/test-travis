@@ -1,0 +1,19 @@
+{
+    "name": "aikibo/test-travis",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tamami",
+            "email": "tamami.oka@gmail.com",
+            "role": "Dev"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "test-travis": ""
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}

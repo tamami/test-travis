@@ -1,0 +1,1 @@
+Selamat datang, <?php $_POST["nama"]; ?>
